@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!--color Primary used for  default action bar background-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!--color Primary Dark used for status bar background-->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!--colorAccent used as default value for colorControlActivated , which is used to tint widgets-->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="customToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+
+        <item name="android:textColorPrimary">#000</item> <!-- text color of toolbar title-->
+        <item name="android:textColorSecondary">#000</item> <!-- Text color of Overflow menu(3 dots)
+                                                                 and color of navigation drawer icon-->
+    </style>
+
+    <style name="customPopupTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:background">#909090</item>
+    </style>
+
+</resources>

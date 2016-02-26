@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="newspaper">
+        <item>Times Of India</item>
+        <item>Hindustan Times</item>
+        <item>The Tribune</item>
+        <item>The Hindu</item>
+        <item>Dainik Jagran</item>
+        <item>Navbharat Times</item>
+        <item>Punjab Kesari</item>
+        <item>Asian Age</item>
+        <item>City Journal</item>
+        <item>Deccan Chronicle</item>
+        <item>Financial Express</item>
+        <item>Mid Day</item>
+        <item>The Economic Times</item>
+        <item>The Indian Express</item>
+        <item>Dainik Bhaskar</item>
+        <item>Punjab Kesari</item>
+    </string-array>
+</resources>
